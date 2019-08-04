@@ -1,4 +1,4 @@
-#Guthub Teacher
+# Guthub Teacher
 ---
 layout: default
 ---
